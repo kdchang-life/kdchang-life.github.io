@@ -25,7 +25,7 @@ const experiences = [
   },
   {
     role: "Software Engineer — 軟體工程師",
-    company: "Delta Electronics 台達電子",
+    company: "Delta Electronics 台達電",
   },
   {
     role: "Intern Software Engineer — 實習工程師",
