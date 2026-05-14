@@ -9,7 +9,7 @@ const experiences = [
   },
   {
     role: "Senior Software Engineer — 資深軟體工程師",
-    company: "鴻海科技集團 Foxconn",
+    company: "鴻海科技集團 Foxconn - 鴻華先進",
   },
   {
     role: "Technical Project Manager — 技術專案經理 (TPM)",
@@ -199,7 +199,7 @@ export default function About(): ReactNode {
             </p>
             <p>
               曾服務過上市科技公司、上市網路軟體公司、台灣 AI
-              人工智慧新創獨角獸公司和全球前三大瀏覽器製造外商，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。
+              人工智慧新創獨角獸公司和全球前三大瀏覽器製造外商，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發和擔任台中市政府青年諮詢委員，累積了豐富的軟體開發、產品管理、專案管理和團隊領導經驗。
             </p>
             <p>
               同時也是{" "}
