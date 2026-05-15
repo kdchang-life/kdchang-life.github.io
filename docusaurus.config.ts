@@ -70,8 +70,8 @@ const config: Config = {
   deploymentBranch: "gh-pages",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "kdchang-tech-blog", // Usually your GitHub org/user name.
-  projectName: "kdchang-tech-blog.github.io", // repo
+  organizationName: "kdchang-life", // Usually your GitHub org/user name.
+  projectName: "kdchang-life.github.io", // repo
 
   onBrokenLinks: "throw",
 
