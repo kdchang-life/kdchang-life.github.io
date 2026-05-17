@@ -45,11 +45,11 @@ const featuredProducts: FeaturedProduct[] = [
   },
   {
     emoji: "🧪",
-    image: "/img/projects/exploretags.webp",
-    title: "ExploreTags 漫旅書籤",
-    desc: "ExploreTags 是一款城市探索打卡 App，讓你透過任務式打卡挑戰，主動走進城市的每個角落。",
-    tags: ["Mobile App", "Travel"],
-    url: "https://www.exploretags.com/",
+    image: "/img/projects/certgym.webp",
+    title: "CertGym 證照道館",
+    desc: "CertGym 是一個專為考取各類專業證照學習者設計的行動應用。透過閃卡、題庫、錯題收藏，讓備考變得有趣又高效。",
+    tags: ["Education", "Certification", "Learning"],
+    url: "https://www.certgym.com/",
   },
 ];
 
