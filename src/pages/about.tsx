@@ -164,7 +164,7 @@ export default function About(): ReactNode {
               Curator
             </span>
             <span className={`${styles.badge} ${styles.badgeOrange}`}>
-              Lifelong Learner
+              Educator
             </span>
           </div>
         </div>
@@ -246,8 +246,9 @@ export default function About(): ReactNode {
             </p>
             <p>
               <em>
-                @kdchang 文藝型開發者，站在科技與人文的交叉口。A Software
-                Engineer, Product Manager / Project Manager &amp; Curator.
+                @kdchang
+                一個創作者、知識策展人和教育工作者。站在科技與人文的交叉口。A
+                Builder, Curator & Educator.
               </em>
             </p>
           </div>
