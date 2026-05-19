@@ -212,8 +212,8 @@ export default function About(): ReactNode {
               >
                 台中市政府青年諮詢委員
               </a>
-              ，累積了豐富的軟體開發、產品管理、專案管理和團隊領導經驗。是一個熱愛獨立開發和打造人們喜愛的產品（Indie
-              Hacker & Builder）。
+              ，累積了豐富的軟體開發、產品管理、專案管理和團隊領導經驗。是一個熱愛獨立開發和打造人們喜愛的產品（Builder
+              & Indie Hacker）。
             </p>
             <p>
               同時也是{" "}
