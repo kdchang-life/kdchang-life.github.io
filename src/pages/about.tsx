@@ -115,6 +115,11 @@ const contacts = [
     href: "https://tech.kdchang.com",
   },
   {
+    label: "Labs & Products",
+    value: "labs.kdchang.com",
+    href: "https://labs.kdchang.com",
+  },
+  {
     label: "Slides",
     value: "slides.com/kd-chang",
     href: "http://slides.com/kd-chang",
