@@ -197,7 +197,8 @@ export default function About(): ReactNode {
           <hr className={styles.divider} />
           <div className={styles.bioText}>
             <p>
-              KD Chang 張凱迪，台灣大學主修經濟學、臺大資管所碩士。是一個{" "}
+              KD Chang
+              張凱迪，台灣大學主修經濟學、臺大資管所碩士，擁有社會科學和電腦科學背景，具備豐富的跨領域學習經驗。是一個{" "}
               <span className={styles.highlight}>軟體工程師</span>，也是一位{" "}
               <span className={styles.highlight}>PM 產品專案經理</span> 和
               <span className={styles.highlight}> 工程主管</span>。
