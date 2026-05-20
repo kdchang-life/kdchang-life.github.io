@@ -226,7 +226,7 @@ export default function About(): ReactNode {
               </a>{" "}
               創辦人、
               <a
-                href="http://weekly.techbridge.cc/"
+                href="http://blog.techbridge.cc/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
