@@ -248,7 +248,7 @@ export default function About(): ReactNode {
             </p>
             <p>
               <em>
-                @kdchang 一個創作者、知識策展人和教育工作者。A Builder, Curator
+                @kdchang 一個建構者、知識策展人和教育工作者。A Builder, Curator
                 & Educator.
               </em>
             </p>
