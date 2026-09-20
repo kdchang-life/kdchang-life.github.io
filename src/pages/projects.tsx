@@ -85,7 +85,7 @@ const products: Project[] = [
     desc: "為開發者而生的技術內容創作分享與職涯發展平台。連結全世界高品質的技術內容、優秀的開發者和工作機會，協助開發者建立技能、人際連結和打造技術職涯。",
     tags: ["Curation", "Community", "Tech Blog"],
     status: "archived",
-    url: "https://www.facebook.com/coderbridge",
+    url: "https://www.facebook.com/CoderBridgeTW",
   },
   {
     emoji: "📰",
