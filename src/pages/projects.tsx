@@ -71,12 +71,12 @@ const products: Project[] = [
   // },
   {
     emoji: "🧪",
-    image: "/img/projects/happycoder.webp",
-    title: "HappyCoder 自學 AI 程式設計學院",
-    desc: "最溫馨有趣的自學 AI 工具、實用 Prompt 提示詞和 Vibe Coding 自學程式設計交流學習社群。",
+    image: "/img/projects/kd-ai-hub.webp",
+    title: "KD AI Hub | AI 自學補給站",
+    desc: "最溫馨有趣的 AI 自學社群平台。從基礎觀念、工具挑選、 提示詞模板到工作流自動化再到 Vibe Coding。照著學習地圖走，一步一步把 AI 變成你的日常工具。",
     tags: ["Education", "GenAI", "AI Course"],
     status: "live",
-    url: "https://www.happycoder.org/",
+    url: "https://ai.kdchang.com/",
   },
   {
     emoji: "🌉",
@@ -112,18 +112,11 @@ const tools: Project[] = [
   },
   // {
   //   emoji: "⚡",
-  //   title: "Noiszen 諾禪",
-  //   desc: "一個提供多種環境白噪音和靜心禪語與正念冥想工具的行動應用和網站，幫助使用者提升專注力、放鬆心情，找回內心的平靜並改善睡眠品質。",
-  //   tags: ["Web", "App", "Zen", "Meditation"],
+  //   title: "HomePocket 口袋找房",
+  //   desc: "HomePocket 是一款專為找房族打造的 Chrome 擴充功能，幫助你在瀏覽各大房屋平台時，一鍵收藏、整理與分析房源資訊，讓買房與租屋決策更有效率、更有系統。",
+  //   tags: ["Web", "Real Estate"],
   //   status: "wip",
   // },
-  {
-    emoji: "⚡",
-    title: "HomePocket 口袋找房",
-    desc: "HomePocket 是一款專為找房族打造的 Chrome 擴充功能，幫助你在瀏覽各大房屋平台時，一鍵收藏、整理與分析房源資訊，讓買房與租屋決策更有效率、更有系統。",
-    tags: ["Web", "Real Estate"],
-    status: "wip",
-  },
 ];
 
 /* ── Game ─────────────────────────────────────────── */
