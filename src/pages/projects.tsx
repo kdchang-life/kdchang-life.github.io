@@ -72,7 +72,7 @@ const products: Project[] = [
   {
     emoji: "🧪",
     image: "/img/projects/kd-ai-hub.webp",
-    title: "KD AI Hub | AI 自學補給站",
+    title: "AI 自學補給站 | AI Learning Station",
     desc: "最溫馨有趣的 AI 自學社群平台。從基礎觀念、工具挑選、 提示詞模板到工作流自動化再到 Vibe Coding。照著學習地圖走，一步一步把 AI 變成你的日常工具。",
     tags: ["Education", "GenAI", "AI Course"],
     status: "live",
